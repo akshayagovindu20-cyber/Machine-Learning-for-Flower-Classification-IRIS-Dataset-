@@ -22,7 +22,9 @@ The motivation behind this project is to gain practical experience in applying d
 The field of data science and artificial intelligence has grown rapidly, and classification problems are at the core of many real-world applications such as image recognition, medical diagnosis, and pattern detection. One of the most widely used datasets for understanding classification techniques is the Iris dataset, which contains measurements of iris flowers belonging to three species — Setosa, Versicolor, and Virginica. These flowers are described by four numerical features: sepal length, sepal width, petal length, and petal width.
 
 ============================
-🌸 Iris Flower Classification Project
+
+**🌸 Iris Flower Classification Project**
+
 ===========================
 🏫 Faculty Supervisor: Prof.Anshi Bajaj
 🎓 Department of : STME(CSE-DS)
