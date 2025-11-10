@@ -26,7 +26,11 @@ The field of data science and artificial intelligence has grown rapidly, and cla
 **🌸 Iris Flower Classification Project**
 
 ===========================
+
 🏫 Faculty Supervisor: Prof.Anshi Bajaj
+
 🎓 Department of : STME(CSE-DS)
+
 🏢 SVKM's NMIMS Universe
+
 💻 Submitted by: Akshaya Govindu
